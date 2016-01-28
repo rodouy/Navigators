@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Menu Colors -->
+
+    <color name="color_Header">#286a9c</color>
+    <color name="colorText_Header">#286a9c</color>
+    <color name="colorText_Menu">#ffffff</color>
+
+    <color name="colorText_MessageTitle">#414141</color>
+    <color name="colorText_MessageTotal">#414141</color>
+    <color name="colorText_Message">#414141</color>
+    <color name="colorText_MessageFooter">#e75925</color>
+
+
+    <color name="color_Footer">#286a9c</color>
+    <color name="color_TextFooter">#ffffff</color>
+
+    <color name="colorLine_Orange">#ed6614</color>
+
+    <!-- Financial Center Colors -->
+
+
+</resources>

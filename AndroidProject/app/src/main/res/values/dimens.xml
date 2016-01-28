@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Menu Dimensions -->
+    <dimen name="textSize_Header">30pt</dimen>
+    <dimen name="textSize_Menu">33pt</dimen>
+    <dimen name="textSize_MessageTitle">36pt</dimen>
+    <dimen name="textSize_MessageTotal">46pt</dimen>
+    <dimen name="textSize_Message">24pt</dimen>
+    <dimen name="textSize_MessageFooter">24pt</dimen>
+    <dimen name="textSize_FooterTitle">26pt</dimen>
+    <dimen name="textSize_FooterText">20pt</dimen>
+
+    <!-- Financial Center Dimensions -->
+
+
+</resources>

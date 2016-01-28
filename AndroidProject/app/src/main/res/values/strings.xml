@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NavStaff</string>
+    <string name="app_key">A161E24E56E9434CA4EC62535E18EB0F</string>
+
+    <string name="authentication_url">https://staging-navauth.navigators.org:3443/AuthServices.svc/Authenticate</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="error_authentication">Incorrect username or password</string>
+    <string name="error_forgot_username">The "Username" is your NavID</string>
+    <string name="error_forgot_password">Please call Staff Services at 844-894-6287 or login to https://staffservices.navigators.org to reset your password.</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Home -->
+    <string name="text_username">Username</string>
+    <string name="text_userid">UserID</string>
+
+
+
+</resources>
